@@ -1,0 +1,2 @@
+# RNN
+My RNN exercise
